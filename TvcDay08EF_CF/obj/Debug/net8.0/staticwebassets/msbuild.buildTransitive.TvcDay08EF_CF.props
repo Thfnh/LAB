@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TvcDay08EF_CF.props" />
-</Project>
