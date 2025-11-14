@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\BaiTH01.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\BaiTH01.csproj",
       "projectName": "BaiTH01",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\BaiTH01.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\BaiTH01.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio\\c\\NuGetPackages"

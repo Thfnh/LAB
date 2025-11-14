@@ -1,46 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\BaiTH01\\",
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\desktop\\lab\\baith01-02\\baith01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|c:\\users\\dell\\source\\repos\\baith01\\baith01\\views\\shared\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644224F8-4E70-4087-B403-4DABB8562F3A}|BaiTH01\\BaiTH01.csproj|solutionrelative:baith01\\views\\shared\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,133 +82,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "BaiTH01\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Models\\Student.cs",
-              "RelativeToolTip": "BaiTH01\\Models\\Student.cs",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaiTH01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaiTH01\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:32:47.87Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:38:02.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTH01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:37:01.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "BaiTH01\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Controllers\\StudentController.cs",
               "RelativeToolTip": "BaiTH01\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwD4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T15:32:32.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Program.cs",
-              "RelativeDocumentMoniker": "BaiTH01\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Program.cs",
-              "RelativeToolTip": "BaiTH01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BaiTH01\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Models\\Student.cs",
+              "RelativeToolTip": "BaiTH01\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:31:30.655Z",
+              "WhenOpened": "2025-11-07T15:32:47.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTH01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTH01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:38:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTH01\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "BaiTH01\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswDYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-07T15:29:33.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Main.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Main.cshtml",
-              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\Main.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Main.cshtml",
-              "RelativeToolTip": "BaiTH01\\Views\\Shared\\Main.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:26:18.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Footer.cshtml",
-              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\Footer.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Footer.cshtml",
-              "RelativeToolTip": "BaiTH01\\Views\\Shared\\Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:20:54.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Search.cshtml",
-              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\Search.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\Search.cshtml",
-              "RelativeToolTip": "BaiTH01\\Views\\Shared\\Search.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:17:46.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\MyLayout.cshtml",
-              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\MyLayout.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\MyLayout.cshtml",
-              "RelativeToolTip": "BaiTH01\\Views\\Shared\\MyLayout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:40:46.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "BaiTH01\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "BaiTH01\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-07T15:32:52.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "BaiTH01\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "BaiTH01\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T12:37:06.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTH01\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTH01\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T12:37:05.292Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TopNav.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\TopNav.cshtml",
-              "RelativeDocumentMoniker": "BaiTH01\\Views\\Shared\\TopNav.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\Views\\Shared\\TopNav.cshtml",
-              "RelativeToolTip": "BaiTH01\\Views\\Shared\\TopNav.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:08:55.526Z",
-              "EditorCaption": ""
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BaiTH01\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BaiTH01\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T12:37:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "BaiTH01\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "BaiTH01\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T12:37:21.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTH01\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\Program.cs",
+              "RelativeToolTip": "BaiTH01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:31:30.655Z"
             }
           ]
         },

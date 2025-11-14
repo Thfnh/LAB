@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rUNCUe52ZmE=",
+  "dgSpecHash": "294aMmE4dXU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\source\\repos\\BaiTH01\\BaiTH01\\BaiTH01.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\Lab\\BaiTH01-02\\BaiTH01\\BaiTH01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
