@@ -1,90 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Lab3-4\\",
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\lab3-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\lab3-4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\source\\repos\\lab3-4\\lab3-4\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|c:\\users\\dell\\desktop\\lab\\lab3-4\\lab3-4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C249B8-4A82-4887-B588-76519199AEC2}|Lab3-4\\Lab3-4.csproj|solutionrelative:lab3-4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,274 +63,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Delete.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:56:05.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Edit.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Edit.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:55:33.718Z",
+              "WhenOpened": "2025-11-15T08:59:02.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Create.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Create.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:55:03.532Z",
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Models\\Learner.cs",
+              "RelativeToolTip": "Lab3-4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:58:27.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Learner\\Index.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LearnerTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:53:15.028Z",
+              "WhenOpened": "2025-11-15T08:51:41.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LearnerController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Controllers\\LearnerController.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\LearnerController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Controllers\\LearnerController.cs",
-              "RelativeToolTip": "Lab3-4\\Controllers\\LearnerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:52:02.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Program.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Program.cs",
-              "RelativeToolTip": "Lab3-4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:50:38.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Lab3-4\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:49:21.034Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T08:45:51.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Data\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Data\\SchoolContext.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Data\\SchoolContext.cs",
-              "RelativeToolTip": "Lab3-4\\Data\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Lab3-4\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA+wCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:47:52.983Z",
+              "WhenOpened": "2025-11-15T08:42:45.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Lab3-4",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Lab3-4.csproj",
-              "RelativeDocumentMoniker": "Lab3-4\\Lab3-4.csproj",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Lab3-4.csproj",
-              "RelativeToolTip": "Lab3-4\\Lab3-4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T13:47:32.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:18:15.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Enrollment.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:45:30.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Course.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:44:38.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Learner.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Learner.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Learner.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Learner.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Learner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:39:45.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Major.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Major.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Major.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Major.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Major.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:33:33.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Student.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:08:13.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Branch.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Branch.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:07:47.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Gender.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Models\\Gender.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Models\\Gender.cs",
-              "RelativeToolTip": "Lab3-4\\Models\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:07:11.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Lab3-4\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Lab3-4\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAowGIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:10:58.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeToolTip": "Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:12:53.732Z",
+              "WhenOpened": "2025-11-15T08:39:44.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:14:02.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab3-4\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Lab3-4\\Lab3-4\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Lab3-4\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T13:11:47.16Z",
+              "DocumentIndex": 6,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "Lab3-4\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:31:29.233Z",
               "EditorCaption": ""
             }
           ]

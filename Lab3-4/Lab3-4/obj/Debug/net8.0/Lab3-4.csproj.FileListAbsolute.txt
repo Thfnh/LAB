@@ -32,3 +32,16 @@ C:\Users\dell\source\repos\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.pdb
 C:\Users\dell\source\repos\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.genruntimeconfig.cache
 C:\Users\dell\source\repos\Lab3-4\Lab3-4\obj\Debug\net8.0\ref\Lab3-4.dll
 C:\Users\dell\source\repos\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.AssemblyInfo.cs
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.sourcelink.json
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.dll
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\refint\Lab3-4.dll
+C:\Users\dell\Desktop\Lab\Lab3-4\Lab3-4\obj\Debug\net8.0\Lab3-4.pdb
