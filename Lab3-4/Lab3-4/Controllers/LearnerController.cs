@@ -3,6 +3,7 @@ using Lab3_4.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Lab3_4.Controllers
 {
@@ -16,21 +17,25 @@ namespace Lab3_4.Controllers
         }
 
         // GET: Index
+        //khai báo biến toàn cục pageSize
+        private int pageSize = 3;
         public IActionResult Index(int? mid)
         {
+            var learners = (IQueryable<Learner>)db.Learners
+                .Include(m => m.Major);
             if (mid == null)
             {
-                var learners = db.Learners
-                    .Include(m => m.Major).ToList();
-                return View(learners);
-            }
-            else
-            {
-                var learners = db.Learners
+                learners = (IQueryable<Learner>)db.Learners
                     .Where(l => l.MajorID == mid)
                     .Include(m => m.Major).ToList();
-                return View(learners);
             }
+            //tính số trang
+            int pageNum = (int)Math.Ceiling(learners.Count() / (float)pageSize);
+            //trả số trang về view để hiển thị nav-trang
+            ViewBag.pageNum = pageNum;
+            //lấy dữ liệu trang đầu
+            var result = learners.Take(pageSize).ToList();
+            return View(result);
         }
 
         // GET: Create
@@ -84,7 +89,7 @@ namespace Lab3_4.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, [Bind("LearnerId,FirstMidName,LastName,MajorID,EnrollmentDate")] Learner learner)
         {
-            if (id != learner.LearnerId)
+            if (id != learner.LearnerID)
             {
                 return NotFound();
             }
@@ -99,7 +104,7 @@ namespace Lab3_4.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!LearnerExists(learner.LearnerId))
+                    if (!LearnerExists(learner.LearnerID))
                     {
                         return NotFound();
                     }
@@ -118,7 +123,7 @@ namespace Lab3_4.Controllers
         // Kiểm tra Learner tồn tại
         private bool LearnerExists(int id)
         {
-            return (db.Learners?.Any(e => e.LearnerId == id)).GetValueOrDefault();
+            return (db.Learners?.Any(e => e.LearnerID == id)).GetValueOrDefault();
         }
 
         // GET: Learner/Delete/5
@@ -130,7 +135,7 @@ namespace Lab3_4.Controllers
             var learner = db.Learners
                 .Include(l => l.Major)
                 .Include(e => e.Enrollments)
-                .FirstOrDefault(m => m.LearnerId == id);
+                .FirstOrDefault(m => m.LearnerID == id);
 
             if (learner == null)
                 return NotFound();
@@ -164,6 +169,38 @@ namespace Lab3_4.Controllers
                 .Where(l => l.MajorID == mid)
                 .Include(m => m.Major).ToList();
             return PartialView("LearnerTable", learners);
+        }
+        public IActionResult LearnerFilter(int? mid, string? keyword, int? pageIndex)
+        {
+            //lấy toàn bộ learners trong dbset chuyển về IQuerable<Learner> để query
+            var learners = (IQueryable<Learner>)db.Learners;
+            //lấy chỉ số trang, nếu chỉ số trang null thì gán ngầm định bằng 1
+            int page = (int)(pageIndex == null || pageIndex <= 0 ? 1 : pageIndex);
+            //_nếu có mid thì lọc learner theo mid (chuyên ngành)
+            if (mid != null)
+            {
+                //lọc
+                learners = learners.Where(l => l.MajorID == mid);
+                //gửi mid về view để ghi lại trên nav–phân trang
+                ViewBag.mid = mid;
+            }
+            //nếu có keyword thì tìm kiếm theo tên
+            if (keyword != null)
+            {
+                //tìm kiếm
+                learners = learners.Where(l => l.FirstMidName.ToLower()
+                                               .Contains(keyword.ToLower()));
+                //gửi keyword về view để ghi trên nav–phân trang
+                ViewBag.keyword = keyword;
+            }
+            //tính số trang
+            int pageNum = (int)Math.Ceiling(learners.Count() / (float)pageSize);
+            //gửi số trang về view để hiển thị nav–trang
+            ViewBag.pageNum = pageNum;
+            //chọn dữ liệu trong trang hiện tại
+            var result = learners.Skip(pageSize * (page - 1))
+                                 .Take(pageSize).Include(m => m.Major);
+            return PartialView("LearnerTable", result);
         }
     }
 }

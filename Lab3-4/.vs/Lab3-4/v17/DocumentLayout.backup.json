@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Lab\\Lab3-4\\Lab3-4\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab3-4\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T08:59:02.207Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Lab3-4\\Models\\Learner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T08:58:27.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:58:27.323Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Lab3-4\\Views\\Learner\\LearnerTable.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T08:51:41.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:51:41.265Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Lab3-4\\Views\\Learner\\Index.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAswDcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T08:45:51.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:45:51.212Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Lab3-4\\Controllers\\LearnerController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAIA+wCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T08:42:45.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:42:45.789Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Lab3-4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T08:39:44.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:39:44.689Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Lab3-4\\ViewComponents\\MajorViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T08:31:29.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T08:31:29.233Z"
             }
           ]
         },
